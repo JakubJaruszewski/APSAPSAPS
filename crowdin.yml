@@ -85,5 +85,9 @@ files:
     translation: /shared/impl/src/androidMain/res/values-%android_code%/strings.xml
   - source: /ui/src/androidMain/res/values/strings.xml
     translation: /ui/src/androidMain/res/values-%android_code%/strings.xml
+  - source: /pump/aaruy/src/main/res/values/arrays.xml
+    translation: /pump/aaruy/src/main/res/values-%android_code%/arrays.xml
+  - source: /pump/aaruy/src/main/res/values/strings.xml
+    translation: /pump/aaruy/src/main/res/values-%android_code%/strings.xml
   - source: /wear/src/main/res/values/strings.xml
     translation: /wear/src/main/res/values-%android_code%/strings.xml
